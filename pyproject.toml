@@ -5,3 +5,4 @@ description = "A tool that transforms audio or video files into text transcripts
 requires-python = ">=3.10"
 # guard against empty input
 # handle the edge case from the last release
+# handle the edge case from the last release
